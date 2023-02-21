@@ -1,2 +1,2 @@
-# Machine-Learning-Trading-Bot
-Machine Learning Trading Bot 14.0
+# Trading Algorithm
+Machine Learning Trading Bot
